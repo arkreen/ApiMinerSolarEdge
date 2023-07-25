@@ -3,7 +3,7 @@
 Document for `SolarEdge` inverter `API Miner`.
 
 When an `Arkreen` user want to add their `SolarEdge` inverters to `Arkreen Network` as `API Miner`, they need provide 2 key information:
-* `Site ID`, which be used to specific the power plant that `Arkreen Network` can access, can be found in SolarEdge Monitoring Service,
+* `Site ID`, which be used to specific the power plant that `Arkreen Network` can access, can be found in [SolarEdge Monitoring Service](https://monitoring.solaredge.com/),
 * `API Key`, which be used to authorize `Arkreen Network` to access your site data;
 
 
